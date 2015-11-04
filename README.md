@@ -1,8 +1,8 @@
-Чат на Express и Socket.IO
+Р§Р°С‚ РЅР° Express Рё Socket.IO
 
-По мотивам скринкаста https://learn.javascript.ru/nodejs-screencast
+РџРѕ РјРѕС‚РёРІР°Рј СЃРєСЂРёРЅРєР°СЃС‚Р° https://learn.javascript.ru/nodejs-screencast
 
-Отличия:
+РћС‚Р»РёС‡РёСЏ:
 
-  1. Используется Express 4 вместо Express 3
-		2. Используется JADE вместо EJS
+  1. РСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ Express 4 РІРјРµСЃС‚Рѕ Express 3
+  2. РСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ JADE РІРјРµСЃС‚Рѕ EJS
